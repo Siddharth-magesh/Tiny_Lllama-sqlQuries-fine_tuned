@@ -16,7 +16,7 @@ output : {Following query}
 
 Things to be done :
 
--training epochs should be increased
--database should be fetched to the model directly 
--database structure should be automatically sent to the model
--the out tokens should be string formatted and fetch to the table to get the actual values
+---training epochs should be increased
+---database should be fetched to the model directly 
+---database structure should be automatically sent to the model
+---the out tokens should be string formatted and fetch to the table to get the actual values
